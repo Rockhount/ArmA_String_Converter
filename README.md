@@ -24,7 +24,7 @@
 ###Maximale Leistung:
 ####Mit Beachtung auf Groß- und Kleinschreibung:
 - Eine Datei: ~480000 Änderungen pro Sekunde.
-- Mehrere Dateien: ~434000 Änderungen pro Sekunde.
+- Mehrere Dateien: ~434000 Änderungen pro Sekunde. 
 ####Ohne Beachtung auf Groß- und Kleinschreibung:
 - Eine Datei: ~323000 Änderungen pro Sekunde.
 - Mehrere Dateien: ~252000 Änderungen pro Sekunde.
@@ -35,7 +35,7 @@
 
 ###Bedienung:
 - Wählen Sie eine Datei oder ein Ordner aus
-- Wählen Sie Beerkans �ChangeText� Datei aus oder geben Sie direkt den zu ersetzenden und den ersetzenden Text ein
+- Wählen Sie Beerkans "ChangeText" Datei aus oder geben Sie direkt den zu ersetzenden und den ersetzenden Text ein
 - Wählen Sie bei Bedarf den Parameter für die Beachtung der Groß- und Kleinschreibung aus
 - Drücken Sie auf Konvertieren, um den Prozess zu starten
 

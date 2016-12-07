@@ -23,11 +23,11 @@
 
 ###Maximale Leistung:
 ####Mit Beachtung auf Groß- und Kleinschreibung:
-- Eine Datei: ~480000 Änderungen pro Sekunde.
-- Mehrere Dateien: ~434000 Änderungen pro Sekunde. 
+- Eine Datei: ~480000 Änderungen pro Sekunde
+- Mehrere Dateien: ~434000 Änderungen pro Sekunde
 ####Ohne Beachtung auf Groß- und Kleinschreibung:
-- Eine Datei: ~323000 Änderungen pro Sekunde.
-- Mehrere Dateien: ~252000 Änderungen pro Sekunde.
+- Eine Datei: ~323000 Änderungen pro Sekunde
+- Mehrere Dateien: ~252000 Änderungen pro Sekunde
 
 ###Unterstützte Sprachen:
 - Englisch

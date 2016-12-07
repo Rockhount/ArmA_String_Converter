@@ -4,8 +4,6 @@
 </p>
 
 
-##Inhalt
-Hier finden Sie den Sourcecode für das Programm.
 
 ###Funktionen:
 - Einfache Bedienung.

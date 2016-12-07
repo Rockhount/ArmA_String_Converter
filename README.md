@@ -7,35 +7,35 @@
 ##Inhalt
 Hier finden Sie den Sourcecode für das Programm.
 
-#Funktionen:
+###Funktionen:
 - Einfache Bedienung.
 - Extrem schnell (bis zu 480000 Änderungen pro Sekunde)
 - Open Source!
 - Unterstützung für Beerkan s & Dingo-J s "ChangeText" Datei.
 
-#Installation:
+###Installation:
 - Keine. Das Programm kann sofort ohne Installation gestartet und benutzt werden.
 
-#Anforderung:
+###Anforderung:
 - 1GHz CPU.
 - 32MB freier Arbeitsspeicher.
 - 1MB freier Festplattenspeicher.
 - .NET Framework 2.0 (bereits seit Windows XP enthalten)
 - Unterstützte Betriebssysteme:Windows XP, Vista, 7, 8
 
-#Maximale Leistung:
-Mit Beachtung auf Groß- und Kleinschreibung:
+###Maximale Leistung:
+####Mit Beachtung auf Groß- und Kleinschreibung:
 - Eine Datei: ~480000 Änderungen pro Sekunde.
 - Mehrere Dateien: ~434000 Änderungen pro Sekunde.
-Ohne Beachtung auf Groß- und Kleinschreibung:
+####Ohne Beachtung auf Groß- und Kleinschreibung:
 - Eine Datei: ~323000 Änderungen pro Sekunde.
 - Mehrere Dateien: ~252000 Änderungen pro Sekunde.
 
-#Unterstützte Sprachen:
+###Unterstützte Sprachen:
 - Englisch
 - Deutsch
 
-#Bedienung:
+###Bedienung:
 - Wählen Sie eine Datei oder ein Ordner aus
 - Wählen Sie Beerkans �ChangeText� Datei aus oder geben Sie direkt den zu ersetzenden und den ersetzenden Text ein
 - Wählen Sie bei Bedarf den Parameter für die Beachtung der Groß- und Kleinschreibung aus
